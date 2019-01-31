@@ -1,29 +1,45 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" >
+
 <head>
-	<meta charset="utf-8">
-	<title>Welcome to CodeIgniter</title>
-	<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/inicio.css">
+  <meta charset="UTF-8">
+  <title>ProgressBar(jquery-circle-progress)</title>
+  
+  
+  
+      <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/inicio.css">
+
+  
 </head>
-<body>
 
-<div id="container">
-	<h1>Welcome to CodeIgniter!</h1>
+<body onload="redireccionar()">
+	<div class="content">
+		<div class="cont-todo">
+			<img src="<?php echo base_url(); ?>assets/img/logo.png">
+		 	<div class="circle" id="circle-b">
 
-	<div id="body">
-		<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
+				<strong></strong>
+			</div>
+		</div>
+		
 
-		<p>If you would like to edit this page you'll find it located at:</p>
-		<code>application/views/welcome_message.php</code>
-
-		<p>The corresponding controller for this page is found at:</p>
-		<code>application/controllers/Welcome.php</code>
-
-		<p>Prueb <a href="user_guide/">User Guide</a>.</p>
 	</div>
 
-	<p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds. <?php echo  (ENVIRONMENT === 'development') ?  'CodeIgniter Version <strong>' . CI_VERSION . '</strong>' : '' ?></p>
-</div>
+	
+  	<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-circle-progress/1.1.3/circle-progress.min.js'></script>
+
+  
+
+    <script  src="<?php echo base_url(); ?>assets/js/inicio.js"></script>
+    <script language="JavaScript">
+	  function redireccionar() {
+	    setTimeout("location.href='<?php echo base_url(); ?>/index.php/sitio'", 5000);
+	  }
+	</script>
+
+
 
 </body>
+
 </html>

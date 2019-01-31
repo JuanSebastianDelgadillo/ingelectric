@@ -7,4 +7,12 @@ class Welcome extends CI_Controller {
 	{
 		$this->load->view('inicio');
 	}
+
+	public function reload(){
+		$this->load->view('inicio');
+		sleep(5);
+		header('Location: '.base_url().'sitio'); 
+
+	}
+
 }
