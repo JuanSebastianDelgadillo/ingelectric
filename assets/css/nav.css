@@ -9,7 +9,14 @@
 #navbarSupportedContent ul li{
   font-size: 20px;
   text-align: right;
+}
 
+#navbarSupportedContent ul li a.nav-link{
+ color: rgba(255,255,255,.8); !important;
+}
+
+#navbarSupportedContent ul li a.nav-link:hover{
+  color: #fff !important;
 }
 
 @media only screen and (max-width: 1200px) {
