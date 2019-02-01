@@ -7,6 +7,7 @@ class Sitio extends CI_Controller {
 	{
 		$this->load->view('base/header');
 		$this->load->view('base/nav');
+		$this->load->view('base/slider');
 		$this->load->view('sitio');
 		$this->load->view('base/footer');
 	}

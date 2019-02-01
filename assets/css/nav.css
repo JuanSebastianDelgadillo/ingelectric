@@ -1,0 +1,30 @@
+#icon-nav{
+  margin-left: 100px;
+}
+#navbarSupportedContent{
+  right: 100px;
+  position: absolute;
+}
+
+#navbarSupportedContent ul li{
+  font-size: 20px;
+  text-align: right;
+
+}
+
+@media only screen and (max-width: 1200px) {
+  #icon-nav{
+  margin-left: 0px;
+  }
+}
+
+
+@media only screen and (max-width: 1000px) {
+  #icon-nav{
+  margin-left: 0px;
+  }
+  #navbarSupportedContent{
+  right: 0px;
+  position: relative;
+  }
+}

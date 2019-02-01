@@ -17,7 +17,7 @@ class Inicio extends CI_Controller {
 		 $this->load->view('inicio');
 			
 		echo "<script>
-				setTimeout('location.href='".base_url()."index.php/sitio', 2000);
+				setTimeout('location.href='".base_url()."index.php/sitio', 1000);
 			 </script>
 		";
 

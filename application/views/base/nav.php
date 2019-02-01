@@ -1,7 +1,9 @@
-<nav class="navbar navbar-expand-lg navbar-light" style="background-color: #e3f2fd;">
-  <a class="navbar-brand" href="#">Navbar</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
+<nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #ED3833;">
+    <a class="navbar-brand" href="#" id="icon-nav">
+    	<img src="<?php echo base_url();?>assets/img/logo_blanco.png" width="350" class="d-inline-block align-top" alt="Logo IngelectricChile">
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" style="color: #fff;">
+    <img src="<?php echo base_url(); ?>assets/img/icon-menu.png">
   </button>
 
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -24,7 +26,7 @@
         </div>
       </li>
       <li class="nav-item">
-        <a class="nav-link disabled" href="#">Disabled</a>
+        <a class="nav-link" href="#">Disabled</a>
       </li>
     </ul>
     <form class="form-inline my-2 my-lg-0">
