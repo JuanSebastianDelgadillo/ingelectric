@@ -1,6 +1,7 @@
 body {
 	font-size: 0;
 	text-align: center;
+	font-family: 'Open Sans', sans-serif !important;
 }
 .circle {
 	width: 300px;

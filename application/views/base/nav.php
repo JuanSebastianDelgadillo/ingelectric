@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #ED3833;">
     <a class="navbar-brand" href="#" id="icon-nav">
-    	<img src="<?php echo base_url();?>assets/img/logo_blanco.png" width="350" class="d-inline-block align-top" alt="Logo IngelectricChile">
+    	<img src="<?php echo base_url();?>assets/img/logo_ingelectric_blanco.png" width="400" class="d-inline-block align-top" alt="Logo IngelectricChile">
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" style="color: #fff;">
     <img src="<?php echo base_url(); ?>assets/img/icon-menu.png">
