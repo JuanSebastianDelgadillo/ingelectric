@@ -1,5 +1,14 @@
+#nav-control{
+  position: fixed;
+  width: 100%;
+  top: 0px;
+  left: 0;
+  z-index: 999;
+}
+
 #icon-nav{
-  margin-left: 100px;
+  position: relative;
+  right:0px;
 }
 #navbarSupportedContent{
   right: 100px;
@@ -33,5 +42,11 @@
   #navbarSupportedContent{
   right: 0px;
   position: relative;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  #logo-ingelectric{
+  max-width: 200px;
   }
 }

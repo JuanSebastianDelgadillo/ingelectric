@@ -21,7 +21,7 @@
     <script  src="<?php echo base_url(); ?>assets/js/inicio.js"></script>
     <script language="JavaScript">
 	  function redireccionar() {
-	    setTimeout("location.href='<?php echo base_url(); ?>index.php/sitio'", 5000);
+	    setTimeout("location.href='<?php echo base_url(); ?>index.php/servicio'", 3000);
 	  }
 	</script>
 </body>

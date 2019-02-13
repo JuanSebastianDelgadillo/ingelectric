@@ -1,0 +1,29 @@
+.col-sm-3 img{
+	width: 100%;
+}
+.cont-titulo{
+	padding: 10px;
+	background: #B22C24;
+	color: #fff;
+	text-align: center;
+	font-size: 1vw;
+}
+
+.col-sm-3{
+	padding: 10px;
+
+}
+
+.verMas{
+	background: gray;
+	text-align: center;
+	padding: 10px;
+}
+
+@media (max-width:767px){
+	.cont-titulo{
+	height: 60px;
+	font-size: 3vw;
+	padding: 20px;
+	}
+}

@@ -1,0 +1,17 @@
+#caption-portada{
+	position: absolute;
+	width: 400px;
+	top: 100px;
+	left: 100px;
+	text-align: left;
+}
+
+#carouselExampleIndicators{
+	margin-top: 150px;
+}
+
+@media only screen and (max-width: 500px) {
+  #carouselExampleIndicators{
+	margin-top: 90px;
+}
+}

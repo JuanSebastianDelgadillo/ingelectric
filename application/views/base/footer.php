@@ -4,43 +4,52 @@
 		<div class="container">
 			<div class="row text-center text-xs-center text-sm-left text-md-left">
 				<div class="col-xs-12 col-sm-3 col-md-3">
-					<h5>Quick links</h5>
+					<h5>Contactanos</h5>
 					<ul class="list-unstyled quick-links">
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Home</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>About</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>FAQ</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Get Started</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Videos</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Email</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Teléfono</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Whatssap</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Cotización</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Sugerencias</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Trabaje con Nosotros</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Reclamos</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Ayuda</a></li>
+						
+
 					</ul>
 				</div>
 				<div class="col-xs-12 col-sm-3 col-md-3">
-					<h5>Quick links</h5>
+					<h5>Servicios</h5>
 					<ul class="list-unstyled quick-links">
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Home</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>About</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>FAQ</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Get Started</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Videos</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Proyectos Eléctricos</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Montajes Eléctricos</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Automatización y Control Industrial</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Implementación de Corrientes Débiles</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Accesorios Eléctricos</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Servicios de mantención</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Eficiencia Energética</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Construcción Obras Menores</a></li>
+						
+
 					</ul>
 				</div>
 				<div class="col-xs-12 col-sm-3 col-md-3">
-					<h5>Quick links</h5>
+					<h5>Acceso directo</h5>
 					<ul class="list-unstyled quick-links">
 						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Home</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>About</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>FAQ</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Get Started</a></li>
-						<li><a href="https://wwwe.sunlimetech.com" title="Design and developed by"><i class="fa fa-angle-double-right"></i>Imprint</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Quiénes Sómos</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Nuestros Servicios</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Galeria de proyectos</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Nuestros Clientes</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Contactanos</a></li>
 					</ul>
 				</div>
 				<div class="col-xs-12 col-sm-3 col-md-3">
-					<h5>Quick links</h5>
+					<h5>Siguenos en</h5>
 					<ul class="list-unstyled quick-links">
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Home</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>About</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>FAQ</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Get Started</a></li>
-						<li><a href="https://wwwe.sunlimetech.com" title="Design and developed by"><i class="fa fa-angle-double-right"></i>Imprint</a></li>
+						<li><a href=""><img src=""> Facebook</a></li>
+						<li><a href=""><img src=""> Twiter</a></li>
+						<li><a href=""><img src=""> Linkedin</li>
 					</ul>
 				</div>
 			</div>
@@ -59,9 +68,7 @@
 		</div>
 	</section>
 	<br>
-	<div class="row" id="footer-bootom">
-		Footer bottom
-	</div>
+	
 	<!-- ./Footer -->
 </body>
 </html>
