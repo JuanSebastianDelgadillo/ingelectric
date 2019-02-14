@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title><< :: Ingelectric Chile :: >>></title>
+	<title>:: Ingelectric Chile :: Servicios de Ingenería Eléctrica, Mantención, Automatización, Eficiencia Energetica y Obras Menores</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/general.css">

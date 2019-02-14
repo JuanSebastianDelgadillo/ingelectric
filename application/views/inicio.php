@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Ingelectric Chile :: Servicios de Ingenería Eléctrica, Mantención, Automatización, Eficiencia Energetica y Obras Menores</title>
+  <title>:: Ingelectric Chile :: Servicios de Ingenería Eléctrica, Mantención, Automatización, Eficiencia Energetica y Obras Menores</title>
       <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/inicio.css">
 </head>
 <body onload="redireccionar()">

@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-dark" id="nav-control" style="background-color: #B22C24;">
     <a class="navbar-brand" href="#" id="icon-nav">
-    	<img src="<?php echo base_url();?>assets/img/logo_ingelectric_blanco.png" width="400" class="d-inline-block align-top" alt="Logo IngelectricChile" id="logo-ingelectric">
+    	<img src="<?php echo base_url();?>assets/img/logo_ingelectric_blanco.png" width="300" class="d-inline-block align-top" alt="Logo IngelectricChile" id="logo-ingelectric">
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" style="color: #fff;">
     <img src="<?php echo base_url(); ?>assets/img/icon-menu.png">
@@ -44,4 +44,19 @@
   -->
   </div>
 </nav>
+
+<script>
+window.onscroll = function() {myFunction()};
+
+var navbar = document.getElementById("nav-control");
+var sticky = navbar.offsetTop;
+
+function myFunction() {
+  if (window.pageYOffset >= sticky) {
+    navbar.classList.add("sticky")
+  } else {
+    navbar.classList.remove("sticky");
+  }
+}
+</script>
 		 

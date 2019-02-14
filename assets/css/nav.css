@@ -1,9 +1,20 @@
-#nav-control{
+.sticky {
   position: fixed;
+  top: 0;
   width: 100%;
-  top: 0px;
-  left: 0;
-  z-index: 999;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
+
+#nav-control{
+  overflow: hidden;
+  width: 100%;
+}
+
+#logo-ingelectric{
+  margin-left: 100px;
 }
 
 #icon-nav{
@@ -47,6 +58,7 @@
 
 @media only screen and (max-width: 500px) {
   #logo-ingelectric{
-  max-width: 200px;
+    margin-left: 0px;
+    max-width: 200px;
   }
 }

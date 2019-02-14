@@ -4,7 +4,6 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
 
 	<div class="container">
-		<a name="clientes" id="clientes"></a>
 			<br><br>
 			<div class="row">
 				<div class="col-sm-4"><h1>Nuestros Clientes</h1></div>
