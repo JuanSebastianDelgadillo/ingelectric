@@ -3,68 +3,72 @@
 	<section id="footer">
 		<div class="container">
 			<div class="row text-center text-xs-center text-sm-left text-md-left">
-				<div class="col-xs-12 col-sm-3 col-md-3">
+				<div class="col-xs-12 col-sm-4 col-md-4">
 					<h5>Contactanos</h5>
 					<ul class="list-unstyled quick-links">
-						<li><a href="mailto:info@ingelectricchile.cl"><i class="fa fa-angle-double-right"></i>info@ingelectricchile.cl</a></li>
+						<li>
+              <a target="_blank" href="https://www.facebook.com/pages/category/Personal-Blog/Proyectos-Ingelectric-Chile-Ltda-2020758067953923/">
+                <img src="<?php echo base_url(); ?>assets/img/logo-face-cont.png"> Facebook
+              </a>
+            </li>
+            <li>
+              <a href="tel:+56996166485">
+                <img src="<?php echo base_url(); ?>assets/img/logo-tel-cont.png"> Teléfono
+              </a>
+            </li>
+            <li>
+              <a href="mailto:info@ingelectricchile.cl">
+                <img src="<?php echo base_url(); ?>assets/img/logo-email-cont.png"> Email
+              </a>
+            </li>
+            <li>
+              <a target="_blank" href="<?php echo base_url();?>assets/presentacion/presentacion_ingelectricchile.pdf">
+                <img src="<?php echo base_url(); ?>assets/img/logo-carta-cont.png"> Carta de Presentación
+              </a>
+            </li>
+            <li>
+              <a target="_blank" href="https://api.whatsapp.com/send?phone=56996166485&text=Estimado ingelectricchile, quisiera contactarme con usted.">
+                <img src="<?php echo base_url(); ?>assets/img/logo-what-cont.png"> Whatssap
+              </a>
+            </li>
+            <li>
+              <a href="javascript:void();" id="open_form2">
+                <img src="<?php echo base_url(); ?>assets/img/logo-form-cont.png"> Formulario de Consultas
+              </a>
+            </li>
 						
-						<li><a href="tel:+56996166485"><i class="fa fa-angle-double-right"></i>+56996166485</a></li>
-						<li><a ><i id="open_form" class="fa fa-angle-double-right"></i>Cotización</a></li>
-						<li><a ><i id="open_form" class="fa fa-angle-double-right"></i>Sugerencias</a></li>
-						<li><a ><i id="open_form" class="fa fa-angle-double-right"></i>Reclamos</a></li>
-						<li><a ><i id="open_form" class="fa fa-angle-double-right"></i>Ayuda</a></li>
 						
 
 					</ul>
 				</div>
-				<div class="col-xs-12 col-sm-3 col-md-3">
+				<div class="col-xs-12 col-sm-4 col-md-4">
 					<h5>Servicios</h5>
 					<ul class="list-unstyled quick-links">
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Proyectos Eléctricos</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Montajes Eléctricos</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Elaboración de Proyectos Eléctricos</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Elaboración de Proyectos Energías Renovables</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Montajes Elétricos e Instrumentación</a></li>
 						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Automatización y Control Industrial</a></li>
 						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Implementación de Corrientes Débiles</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Accesorios Eléctricos</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Servicios de mantención</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Eficiencia Energética</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Construcción Obras Menores</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Asesorias Eléctricas</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Servicios de Mantención Industrial</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Eficiencia Energétia</a></li>
+            <li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Instalación de Alumbrado</a></li>
+            <li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Fabricación de Tableros</a></li>
+            <li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Estructuras Metálicas</a></li>
+            <li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Remodelaciones</a></li>
 						
-
 					</ul>
 				</div>
-				<div class="col-xs-12 col-sm-3 col-md-3">
-					<h5>Acceso directo</h5>
-					<ul class="list-unstyled quick-links">
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Home</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Quiénes Sómos</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Nuestros Servicios</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Galeria de proyectos</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Nuestros Clientes</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Contactanos</a></li>
-					</ul>
-				</div>
-				<div class="col-xs-12 col-sm-3 col-md-3">
+				<div class="col-xs-12 col-sm-4 col-md-4">
 					<h5>Nuestra Ubicación</h5>
 					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d836.5660641786164!2d-71.48531917078326!3d-32.99680787402077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzLCsDU5JzQ4LjUiUyA3McKwMjknMDUuMiJX!5e0!3m2!1ses-419!2scl!4v1550773323990" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 				</div>
-			</div>
-			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-5">
-					<ul class="list-unstyled list-inline social text-center">
-						<li class="list-inline-item"><a href="javascript:void();"><i class="fa fa-facebook"></i></a></li>
-						<li class="list-inline-item"><a href="javascript:void();"><i class="fa fa-twitter"></i></a></li>
-						<li class="list-inline-item"><a href="javascript:void();"><i class="fa fa-instagram"></i></a></li>
-						<li class="list-inline-item"><a href="javascript:void();"><i class="fa fa-google-plus"></i></a></li>
-						<li class="list-inline-item"><a href="javascript:void();" target="_blank"><i class="fa fa-envelope"></i></a></li>
-					</ul>
-				</div>
-				</hr>
 			</div>	
 		</div>
 	</section>
 	<br>
 
-	<div class="modal fade bd-example-modal-lg" id="modal_form" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" style="width:90%;">
+	<div class="modal fade bd-example-modal-lg" id="modal_form2" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" style="width:90%;">
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
       <div class="modal-header">
@@ -140,8 +144,8 @@
     
     }
 
-  $("#open_form").click(function(){
-    $('#modal_form').modal({backdrop: 'static', keyboard: false})
+  $("#open_form2").click(function(){
+    $('#modal_form2').modal({backdrop: 'static', keyboard: false})
   });
 
   $("#enviar").click(function(){ 
