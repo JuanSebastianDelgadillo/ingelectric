@@ -9,7 +9,7 @@
 					Copyright wwww.ingelectricchile.cl todos los derechos reservados
 				</div>
 				<div class="col-sm-4">
-					Desarrollado por <a href="http://www.webinfo.cl">www.webinfo.cl</a>
+					Desarrollado por <a target="_blank" href="http://www.webinfo.cl">www.webinfo.cl</a>
 				</div>
 			</div>
 		</div>

@@ -9,17 +9,19 @@
       <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
       <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
       <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
+      <li data-target="#carouselExampleIndicators" data-slide-to="8"></li>
+      <li data-target="#carouselExampleIndicators" data-slide-to="9"></li>
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
         <img class="d-block w-100" src="<?php echo base_url(); ?>assets/img/carrusel/1.png" style="width: 100%;" alt="First slide">
         <div class="carousel-caption d-none d-md-block" id="caption-portada">
-          <h2>PROYECTOS ELÉCTRICOS E INSTRUMENTACIÓN</h2>
+          <h2>ELABORACIÓN DE PROYECTOS ELÉCTRICOS</h2>
           <p>Especialistas en desarrollo de proyectos eléctricos e instrumentación</p>
         </div>
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="<?php echo base_url(); ?>assets/img/carrusel/2.jpg" alt="Second slide">
+        <img class="d-block w-100" src="<?php echo base_url(); ?>assets/img/carrusel/2.png" alt="Second slide">
         <div class="carousel-caption d-none d-md-block" id="caption-portada">
           <h2>MONTAJES ELÉCTRICOS E INSTRUMENTACIÓN</h2>
           <p>Implementación y ejecución de proyectos eléctricos e instrumentación</p>
@@ -42,8 +44,8 @@
       <div class="carousel-item">
         <img class="d-block w-100" src="<?php echo base_url(); ?>assets/img/carrusel/5.png" alt="Fifth slide">
         <div class="carousel-caption d-none d-md-block" id="caption-portada">
-          <h2>ACCESORIOS ELÉCTRICOS</h2>
-          <p>Venta y propuesta de accesorios electricos, para todo tipo de proyecto.</p>
+          <h2>ASESORIAS ELÉCTRICAS</h2>
+          <p>Apoyo y respaldo en decisiones eléctricas para el empresario, microempresario y hogares.</p>
         </div>
       </div>
       <div class="carousel-item">
@@ -56,12 +58,26 @@
       <div class="carousel-item">
         <img class="d-block w-100" src="<?php echo base_url(); ?>assets/img/carrusel/7.png" alt="seventh slide">
          <div class="carousel-caption d-none d-md-block" id="caption-portada">
-          <h2>EFICIENCIA ENERGÉTICA</h2>
+          <h2>ELABORACIÓN DE PROYECTOS DE ENERGÍAS RENOVABLES</h2>
           <p>Implementación de proyectos relacionados con la eficiencia energetica y recursos renovables.</p>
         </div>
       </div>
       <div class="carousel-item">
         <img class="d-block w-100" src="<?php echo base_url(); ?>assets/img/carrusel/8.png" alt="Eighth slide">
+         <div class="carousel-caption d-none d-md-block" id="caption-portada">
+          <h2>INSTALACIÓN DE ALUMBRADO</h2>
+          <p>Desarrollo e Instalación de alumbrado personalizado, para casas,departamentos, locales comerciales.</p>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <img class="d-block w-100" src="<?php echo base_url(); ?>assets/img/carrusel/9.png" alt="Eighth slide">
+         <div class="carousel-caption d-none d-md-block" id="caption-portada">
+          <h2>FABRICACIÓN DE TABLEROS</h2>
+          <p>Implementación de todo tipos de tableros eléctricos y automatización.</p>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <img class="d-block w-100" src="<?php echo base_url(); ?>assets/img/carrusel/10.png" alt="Eighth slide">
          <div class="carousel-caption d-none d-md-block" id="caption-portada">
           <h2>CONSTRUCCIÓN EN OBRAS MENORES</h2>
           <p>Todo tipo de implementación de obras menores, para empresas y hogares.</p>

@@ -3,8 +3,9 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>:: Ingelectric Chile :: Servicios de Ingenería Eléctrica, Mantención, Automatización, Eficiencia Energetica y Obras Menores</title>
+  <title>:: IngelectriChile :: Proyectos Eléctricos, Instrumentación, Automatización, Corrientes Débiles, Accesorios Eléctricos, Mantención Industrial y Obras Menores ::</title>
       <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/inicio.css">
+      <link rel="icon" type="image/png" href="<?php echo base_url(); ?>assets/img/logo.ico" />
 </head>
 <body onload="redireccionar()">
 	<div class="content">

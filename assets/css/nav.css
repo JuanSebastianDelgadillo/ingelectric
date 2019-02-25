@@ -1,21 +1,15 @@
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-
-.sticky + .content {
-  padding-top: 60px;
-}
-
 #nav-control{
-  overflow: hidden;
+  position: fixed;
   width: 100%;
+  top: 0px;
+  left: 0;
+  z-index: 999;
 }
 
 #logo-ingelectric{
-  margin-left: 100px;
-}
+    margin-left: 100px;
+    width: 350px;
+  }
 
 #icon-nav{
   position: relative;
@@ -27,7 +21,7 @@
 }
 
 #navbarSupportedContent ul li{
-  font-size: 20px;
+  font-size: 16px;
   text-align: right;
 }
 
@@ -39,14 +33,86 @@
   color: #fff !important;
 }
 
+.cont-info{
+  width: 250px;
+  position: fixed;
+  top: 50%;
+  right:-200px;
+  z-index: 999;
+  
+  text-align: right;
+  padding-right: 10px;
+  cursor: pointer;
+}
+
+.cont-info .cont-icono{
+  display: flex;
+}
+
+.cont-info .cont-icono a{
+  width: 100%;
+  background-color: #B22C24;
+  padding: 10px;
+  color: #fff;
+  text-align: left;
+}
+
+textarea{
+  width: 100%;
+  height: 300px;
+}
+
+select{
+   -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    padding: 5px;
+    width: 100%;
+}
+input{
+  margin:5px;
+}
+
+.modal-confirma{
+  position: fixed;
+  width: 100%;
+  height: 70px;
+  background-color: #34DF1F;
+  bottom: 0;
+  right: 0;
+  z-index: 999;
+  color: #fff;
+  text-align: center;
+  font-size: 30px;
+  padding: 10px;
+  display: none;
+
+}
+
+#faltaComplete{
+  background-color: rgba( 234, 69, 50, 0.5);
+  text-align: center;
+  padding: 10px;
+  display: none;
+}
+
 @media only screen and (max-width: 1200px) {
   #icon-nav{
   margin-left: 0px;
   }
+
+  .modal-confirma{
+  font-size: 12px;
+
+  }
 }
 
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 1024px) {
+   #logo-ingelectric{
+    margin-left: 0px;
+    width: 200px;
+  }
   #icon-nav{
   margin-left: 0px;
   }
@@ -59,6 +125,6 @@
 @media only screen and (max-width: 500px) {
   #logo-ingelectric{
     margin-left: 0px;
-    max-width: 200px;
+    width: 200px;
   }
 }

@@ -4,3 +4,7 @@ body {
 	font-family: 'Open Sans', sans-serif !important;
 	background-color: #FAFAFA; 
 }
+
+.col-sm-4{
+	text-align: justify !important;
+}

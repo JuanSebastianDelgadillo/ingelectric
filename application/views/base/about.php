@@ -39,6 +39,7 @@
 		</div>
 		
 	</div>
+	<a name="servicios" id="servicios"></a>
 	<div class="parallax1">
 		<div class="container">
 		<div class="row-sm-12">
@@ -89,7 +90,7 @@
 	  <br>
 	</div>
 </div>
-
+	<a name="galeria" id="galeria"></a>
 	<div class="abajo_parallax">
 		<div class="container">
 			<div class="row">
